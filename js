@@ -1,0 +1,1 @@
+document.getElementById("titulo").onclick = () => alert("Você clicou no título!");
